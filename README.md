@@ -1,4 +1,4 @@
-# Some numerical finance application
+# Some numerical finance applications
 
 Computing of the underlying under the Black and Scholes model and portefolio simulation. 
 
